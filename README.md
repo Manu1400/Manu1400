@@ -1,4 +1,5 @@
-### Hi there 👋
+### Badges
+![](https://komarev.com/ghpvc/?username=Manu1400)
 
 <!--
 **Manu1400/Manu1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
